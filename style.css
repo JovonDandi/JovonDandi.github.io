@@ -1,0 +1,12 @@
+body{
+background: rgb(0,255,244);
+background: linear-gradient(90deg, rgba(0,255,244,1) 100%, rgba(0,255,244,0) 100%);
+
+}
+
+img{
+border-radius: 500px;
+border-style: dotted;
+border-width: 30px;
+
+}
